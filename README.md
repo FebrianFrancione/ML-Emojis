@@ -1,6 +1,6 @@
 # ML---Emojis
 
-An emoji processing repository.
+An emoji processing repository. To be completed...
 
 Course: COMP 432
 
